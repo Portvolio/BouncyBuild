@@ -1,0 +1,6 @@
+name: BouncyBuild
+version: ${project.version}
+main: wtf.violet.portvolio.bouncybuild.BouncyBuild
+api-version: 1.16
+authors: [violetwtf]
+website: https://violet.wtf
